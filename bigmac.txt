@@ -1,6 +1,6 @@
-steak
-tomates
+steak 
+tomates 
 cheese
-oignons
+oignons 
 moutarde 
-ketchup
+ketchup 
